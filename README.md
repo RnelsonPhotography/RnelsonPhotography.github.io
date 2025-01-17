@@ -1,5 +1,5 @@
 ![Rnelson Photography watermark] (https://github.com/RnelsonPhotography/RnelsonPhotography.github.io/raw/main/Photography%20watermark%20black.png)
-# ***Rnelson Photography***
+# ***R.Nelson Photography***
 [Email me](mailto:photo.r.nelson@gmail.com)
 
 [Instagram](https://www.instagram.com/rnelson_photography?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
