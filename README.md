@@ -25,4 +25,5 @@ Welcome to my photography page! My name is **Riley Nelson**, and I am a photogra
 | Extra hour | $50 |
 
 # **Example Photos! 📸**
-![Example Photos](<Website Collage.png>) 
+![Example Photos Couples](<Website Collage.png>) 
+![Example Photo Senior](IMG_8267.jpg)
