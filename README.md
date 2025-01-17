@@ -1,4 +1,4 @@
-![Rnelson Photography watermark] (https://banner2.cleanpng.com/20180511/jaw/avchck9g9.webp)
+![My Logo](<Photography watermark black.png>)
 # ***R.Nelson Photography***
 [Email me](mailto:photo.r.nelson@gmail.com)
 
