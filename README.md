@@ -15,3 +15,12 @@ Welcome to my photography page! My name is **Riley Nelson**, and I am a photogra
 |---------------|------------------------|--------------|
 | Senior Portraits | 2 Hours, 50 photos, Storage drive | $150 |
 | Couples Photoshoot |  2 Hours, 50 photos, Storage drive  | $175 |
+
+# **Extras**
+
+| Type          | Price |
+|---------------|------------------------|--------------|
+| Extra 10 images | $50 |
+| Extra location + hour | $75 |
+| Extra location | $50 |
+| Extra hour | $50 |
