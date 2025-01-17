@@ -6,16 +6,16 @@ Welcome to my photography page! My name is **Riley Nelson**, and I am a photogra
 [Instagram](https://www.instagram.com/rnelson_photography?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 [Facebook](https://www.facebook.com/profile.php?id=61557623996843)
 
-[Email](mailto:photo.r.nelson@gmail.com)
+[Email📧](mailto:photo.r.nelson@gmail.com)
 
-# **Pricing**
+# **Pricing 💲**
 
 | Type          | Included              | Price     |
 |---------------|------------------------|--------------|
 | Senior Portraits | 2 Hours, 50 photos, Storage drive | $150 |
 | Couples Photoshoot |  2 Hours, 50 photos, Storage drive  | $175 |
 
-# **Extras**
+# **Extras ➕**
 
 | Type          | Price |
 |---------------|------------------------|
