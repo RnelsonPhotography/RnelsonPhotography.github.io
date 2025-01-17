@@ -19,7 +19,7 @@ Welcome to my photography page! My name is **Riley Nelson**, and I am a photogra
 # **Extras**
 
 | Type          | Price |
-|---------------|------------------------|--------------|
+|---------------|------------------------|
 | Extra 10 images | $50 |
 | Extra location + hour | $75 |
 | Extra location | $50 |
