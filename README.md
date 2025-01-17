@@ -1,3 +1,4 @@
+![Rnelson Photography watermark] (https://github.com/RnelsonPhotography/RnelsonPhotography.github.io/raw/main/Photography%20watermark%20black.png)
 # ***Rnelson Photography***
 [Email me](mailto:photo.r.nelson@gmail.com)
 
