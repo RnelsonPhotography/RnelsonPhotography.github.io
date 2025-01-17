@@ -1,4 +1,4 @@
-! [Rnelson Photography watermark] (Photography watermark black.png)
+! [Rnelson Photography watermark] (main/Photography watermark black.png)
 # ***R.Nelson Photography***
 [Email me](mailto:photo.r.nelson@gmail.com)
 
